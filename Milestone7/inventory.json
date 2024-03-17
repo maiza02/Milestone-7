@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sword",
+    "description": "Sharp and deadly",
+    "price": 50.0,
+    "quantity": 10
+  },
+  {
+    "name": "Bow",
+    "description": "Great for ranged attacks",
+    "price": 40.0,
+    "quantity": 15
+  },
+  {
+    "name": "Plate Mail",
+    "description": "Heavy protection",
+    "price": 80.0,
+    "quantity": 5
+  },
+  {
+    "name": "Leather Armor",
+    "description": "Light and flexible",
+    "price": 30.0,
+    "quantity": 8
+  },
+  {
+    "name": "Potion",
+    "description": "Restores health",
+    "price": 10.0,
+    "quantity": 20
+  }
+]
